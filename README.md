@@ -1,2 +1,2 @@
-# Projeto-PI---Piataia
-Projeto de Pi - grupo 1 
+# ProjetoPI_Pitaia
+Projeto de Pesquisa e Inovação
